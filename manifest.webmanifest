@@ -1,0 +1,17 @@
+{
+  "name": "Funkstube – Morsen mit Freunden",
+  "short_name": "Funkstube",
+  "description": "Morsestation fürs Handy: Funkraum per Code, Ton-Funk übers Mikrofon, Hörtraining und Gebe-Duell. Funktioniert offline.",
+  "lang": "de",
+  "start_url": "./#funk",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f0c0a",
+  "theme_color": "#120e0b",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
